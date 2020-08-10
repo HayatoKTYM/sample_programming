@@ -2,7 +2,7 @@
 
 """
 -URL
-https://paiza.jp/works/mondai/skillcheck_sample/mod7?language_uid=python3&t=ce7f5cfec317810e36c5f2af560e49b5
+https://paiza.jp/works/mondai/skillcheck_sample/mod7?language_uid=python3
 
 -入力
 カード枚数

@@ -1,7 +1,7 @@
 # coding: utf-8
 """ 
 -URL
-https://paiza.jp/works/mondai/skillcheck_sample/search-island?language_uid=python3&t=17366051bd5d60f78f52f0a134e1c737
+https://paiza.jp/works/mondai/skillcheck_sample/search-island?language_uid=python3
 
 -入力例
 横 縦　の数
